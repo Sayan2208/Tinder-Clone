@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Project url: https://tinder-clone-f4214.web.app
+Project url: https://tinder-clone-e8bed.web.app
 
 ## Available Scripts
 
